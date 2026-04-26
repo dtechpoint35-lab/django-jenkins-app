@@ -1,4 +1,4 @@
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Hello, Jenkins CI/CD is working..Auto build setup done")
+    return HttpResponse("Hello, Jenkins CI/CD is working..Auto build setup done, team is working on this...!!!")
